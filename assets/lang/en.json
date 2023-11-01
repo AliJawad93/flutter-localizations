@@ -1,0 +1,5 @@
+{
+    "hello_msg": "Hello",
+    "translating": "Translating",
+    "hello_person":"Hello {name}"
+}
